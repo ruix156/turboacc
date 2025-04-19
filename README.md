@@ -1,3 +1,4 @@
+1
 # luci-app-turboacc
 
 中文|[English](https://github.com/chenmozhijin/turboacc/blob/luci/README_EN.md)
